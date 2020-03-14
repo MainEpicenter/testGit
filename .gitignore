@@ -4,6 +4,7 @@
 *.bak
 
 aaa.txt
+temp.txt
 
 ### VisualStudioCode
 .vscode/*
